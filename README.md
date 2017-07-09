@@ -1,2 +1,1 @@
-# wiki
-my wiki with various tutorials, code snippets, and information
+[the wiki](https://github.com/shadySource/wiki/wiki)
