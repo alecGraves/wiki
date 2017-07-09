@@ -1,1 +1,1 @@
-[The Wiki...](https://github.com/shadySource/wiki/wiki)
+[The wiki...](https://github.com/shadySource/wiki/wiki)
